@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1IXtQW5boA41tyYI3-TN_VcANikAU6LyW
 """
 
-pip install streamlit PyMuPDF transformers reportlab
+
 
 import streamlit as st
 import fitz  # PyMuPDF
